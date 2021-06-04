@@ -11,4 +11,8 @@ This repo provides an implementation of the algorithm 1 (pi-mu framework, see pa
 
 ## Code structure
 
-- `make_env.py`: contains code for importing a multiagent environment as an OpenAI Gym-like object.
+- `model.py`: contains specifications for actor and critic networks.
+- `autoencoder.py`: contains specifications for autoencoder network.
+- `update_autoencoders.py`: contains update method for autoencoder.
+- `trainer.py`: contains update methods for the parameters of pi's and mu's critics and policy networks.
+- `main.py`: evaluation and run of the algorithm.
