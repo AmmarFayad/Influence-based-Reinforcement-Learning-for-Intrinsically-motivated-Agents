@@ -1,6 +1,6 @@
 # Influence-based Reinforcement Learning for Intrinsically-motivated Agents
 ## Overview
-This repo provides an implementation of the algorithm 1 (pi-mu framework, see paper for further details) in Pytorch
+This repo provides an implementation of the algorithm 1 (pi-mu framework, see [paper](https://arxiv.org/abs/2108.12581) for further details) in Pytorch
 
 ## Dependencies
 * Python 3.4
