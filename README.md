@@ -8,6 +8,7 @@ This repo provides an implementation of the methods presented in the Influence-B
 * OpenAI Gym
 * Numpy 1.14.5
 * Multi-Agent Particle Environment
+* SMAC
 
 ## Code structure
 
