@@ -1,6 +1,6 @@
-# Influence-based Reinforcement Learning for Intrinsically-motivated Agents
+# Influence-Based Reinforcement Learning for Intrinsically-Motivated Agents
 ## Overview
-This repo provides an implementation of the algorithm 1 (pi-mu framework, see [paper](https://arxiv.org/abs/2108.12581) for further details) in Pytorch
+This repo provides an implementation of the methods presented in the Influence-Based Reinforcement Learning for Intrinsically-Motivated Agents ICLR 2022 submission in Pytorch. Note that, this repo is not final and does not contain all environments/experiments. The full code will be provided during Discussion Stage 1.
 
 ## Dependencies
 * Python 3.4
